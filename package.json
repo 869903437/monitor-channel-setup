@@ -1,0 +1,24 @@
+{
+  "name": "monitor_channel_setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the314reseller/monitor-channel-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the314reseller/monitor-channel-setup/issues"
+  },
+  "homepage": "https://github.com/the314reseller/monitor-channel-setup#readme"
+}
