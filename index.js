@@ -71,7 +71,7 @@ bot.on("message", async message => {
                         })
                         .then(webhook => channelMade.send(`${webhook.url}`));
 
-                    })
+                    });
 
                 });
     
